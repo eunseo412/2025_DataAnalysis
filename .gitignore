@@ -1,0 +1,28 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS Desktop Services
+.DS_Store
+
+# Logs / temp files
+*.log
+*.tmp
+
+# IDE settings
+.vscode/
+.idea/
+
+# Others
+*.sqlite3
+
